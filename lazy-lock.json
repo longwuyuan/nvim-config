@@ -32,9 +32,10 @@
   "neotest": { "branch": "master", "commit": "6f35d797882c6ce0ab7c87dc86561512dc3d7aba" },
   "neotest-go": { "branch": "main", "commit": "92950ad7be2ca02a41abca5c6600ff6ffaf5b5d6" },
   "neotest-python": { "branch": "master", "commit": "2e83d2bc00acbcc1fd529dbf0a0e677cabfe6b50" },
+  "noice.nvim": { "branch": "main", "commit": "f119045f38792ad5311e5f9be7a879e4c1a95fe0" },
   "nui.nvim": { "branch": "main", "commit": "b1b3dcd6ed8f355c78bad3d395ff645be5f8b6ae" },
   "nvim-cmp": { "branch": "main", "commit": "5260e5e8ecadaf13e6b82cf867a909f54e15fd07" },
-  "nvim-dap": { "branch": "master", "commit": "c65c163daa47e0623dd85d2303fce0c22e52ad01" },
+  "nvim-dap": { "branch": "master", "commit": "922ebc75c2fa9305e36402fbd8c984c8638770a0" },
   "nvim-dap-go": { "branch": "main", "commit": "5faf165f5062187320eaf9d177c3c1f647adc22e" },
   "nvim-dap-python": { "branch": "master", "commit": "3dffa58541d1f52c121fe58ced046268c838d802" },
   "nvim-dap-ui": { "branch": "master", "commit": "334cf3038c4756e6ab999cbac67c847fb654c190" },
@@ -62,6 +63,5 @@
   "ts-comments.nvim": { "branch": "main", "commit": "f7ded340b4c6b317593b867838bf7ace354a67d4" },
   "venv-selector.nvim": { "branch": "main", "commit": "6a1b15eb35bbb827b6db428055087e2dbf32838f" },
   "vim-helm": { "branch": "master", "commit": "9425cf68d2a73d2efbfd05ab3e8b80ffb5a08802" },
-  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" },
-  "yanky.nvim": { "branch": "main", "commit": "8756d19923ad871eb95f543a8a98c026b4a8494f" }
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
 }
